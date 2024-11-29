@@ -3,6 +3,6 @@ Este repositorio contiene el desarrollo de un sistema de predicción meteorológ
 
 
 
-Contacto
-## Autor: Joan Petit
-## Correo: joanstucom@gmail.com
+## Contacto
+Autor: Joan Petit
+Correo: joanstucom@gmail.com
